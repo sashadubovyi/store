@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sashadubovyi.github.io/store/static/css/main.0fa93f8d.css",
+    "main.js": "/sashadubovyi.github.io/store/static/js/main.f9ca9fee.js",
+    "static/media/presentation.jpg": "/sashadubovyi.github.io/store/static/media/presentation.08a248e3a5e232505e36.jpg",
+    "static/media/logo.png": "/sashadubovyi.github.io/store/static/media/logo.c9778d4471956f93255c.png",
+    "index.html": "/sashadubovyi.github.io/store/index.html",
+    "main.0fa93f8d.css.map": "/sashadubovyi.github.io/store/static/css/main.0fa93f8d.css.map",
+    "main.f9ca9fee.js.map": "/sashadubovyi.github.io/store/static/js/main.f9ca9fee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa93f8d.css",
+    "static/js/main.f9ca9fee.js"
+  ]
+}
